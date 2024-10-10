@@ -38,7 +38,7 @@
 
 <div align="center">
     <h3>Tools & Databases</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,mysql" />
 </div>
 
 <hr/>
