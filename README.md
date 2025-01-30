@@ -37,7 +37,7 @@
 
 <div align="center">
     <h3>Frameworks & Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,django,spring,bootstrap,sqlalchemy" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,django,spring,bootstrap" />
 </div>
 
 <div align="center">
