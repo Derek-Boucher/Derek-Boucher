@@ -32,12 +32,12 @@
 
 <div align="center">
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python" />
 </div>
 
 <div align="center">
     <h3>Frameworks & Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=react,express,nodejs,spring,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,spring,bootstrap,django" />
 </div>
 
 <div align="center">
