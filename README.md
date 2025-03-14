@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  After working several years as an assistant manager at Tim Hortons, I transitioned to a career in web development. I'm passionate about technology and dedicated to growing my skills in both front-end (HTML, CSS, JavaScript) and back-end (JavaScript, Java) development. With strong experience in React and Node.js, I build interactive, high-performance web            applications. I’m eager to collaborate on innovative projects and contribute to the future of the web.
+  After working several years as an assistant manager at Tim Hortons, I transitioned to a career in web development. I'm passionate about technology and dedicated to growing my skills in both front-end (HTML, CSS, JavaScript, Python, Django) and back-end (JavaScript, Java, SQL) development. With strong experience in React and Node.js, I build interactive, high-performance web applications. I’m eager to collaborate on innovative projects and contribute to the future of the web.
 </div>
 
 <br/>
