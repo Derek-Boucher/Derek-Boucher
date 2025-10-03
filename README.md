@@ -45,15 +45,4 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,mongodb,mysql" />
 </div>
 
-<hr/>
-
-<h2 align="center">📊 Stats</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Derek-Boucher&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Derek-Boucher&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-<hr/>
-
 ![](https://visitcount.itsvg.in/api?id=Derek-Boucher&icon=0&color=0)
