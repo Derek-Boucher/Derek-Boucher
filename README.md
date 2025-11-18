@@ -21,10 +21,6 @@
   </a>
 </div>
 
-<div align="center"> 
-    My Website: "https://derekboucher.com/"
-</div>
-
 <hr/>
 
 <h2 align="center">💻 Languages-Frameworks-Tools</h2>
